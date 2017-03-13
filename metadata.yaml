@@ -1,5 +1,8 @@
 _repo: A-History-of-Science---Volume-4_1708
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Williams, Henry Smith
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '699'
     url: http://www.gutenberg.org/2009/agents/699
 description: 'Volume 4: Modern development of the chemical and biological sciences'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1708#A-History-of-Science---Volume-4
 gutenberg_issued: '1999-04-01'
 gutenberg_type: Text
 identifiers:
